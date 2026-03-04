@@ -118,8 +118,6 @@ Inside the Students section, copy the example student card and:
 
 - Add your goal
 
-- Optionally add your GitHub username
-
 
 Save the file.
 
@@ -128,7 +126,7 @@ Save the file.
 ## 6️⃣ Create a meaningful commit message:
 
 ```bash
-git commit -m "Add student card - Jane Doe"
+git commit -am "Add student card - Jane Doe"
 ```
 
 ---
@@ -202,7 +200,7 @@ Add student card - Your Name
 ## 🧠 Professional Workflow Summary
 
 ```bash
-Fork → Clone → Update → Branch → Code → Commit → Push → PR
+Fork → Clone → Update → Branch → Code → Commit → Merge → Push → PR
 ```
 
 This is how real software teams collaborate.
